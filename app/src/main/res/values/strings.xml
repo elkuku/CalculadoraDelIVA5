@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CalculadorDelIVA5</string>
+    <string name="without_tax">Sin IVA: %s</string>
+    <string name="tax_value">IVA %d%% : %s</string>
+    <string name="calculador_del_iva">Calculador del IVA</string>
+</resources>
